@@ -8,11 +8,15 @@ Hooks não funcionam dentro de classes - eles permitem que você use React sem c
 
 **Exemplos de Hooks:**
 
+
 **useState ⇒**
 
 Permite a criação de estado no componente através de função.
 
 OBS:A página em si já possui um estado.
+
+
+
 
 **Código:**
 
@@ -24,11 +28,15 @@ function FavoriteColor() {
 
 **setColor:** Função para atualizar o estado. (Altera o valor)
 
+
+
 **useEffect⇒**
 
 Consequência de uma ação.
 
 Rendenriza quando variável sofre mudança.
+
+
 
 **Código:**
 
