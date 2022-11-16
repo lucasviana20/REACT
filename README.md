@@ -21,6 +21,7 @@ function FavoriteColor() {
 }
 
 **Color:** Variável. (Armazena o valor)
+
 **setColor:** Função para atualizar o estado. (Altera o valor)
 
 **useEffect⇒**
